@@ -1,4 +1,4 @@
-# AIM_CW-PO
+# AIM_CW_PO
 COMP2024 - AIM - Group 15 - NBS ([GitHub](https://github.com/ccrepp/AIM_CW-PO))
 
 Algorithms for Portfolio Optimisation
